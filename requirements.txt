@@ -1,0 +1,17 @@
+# Core dependencies for AI MongoDB Agent
+streamlit>=1.28.0
+pymongo>=4.6.0
+ollama>=0.1.7
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# Additional utilities
+pandas>=2.1.0
+numpy>=1.24.0
+typing-extensions>=4.8.0
+
+# Development dependencies (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.7.0
